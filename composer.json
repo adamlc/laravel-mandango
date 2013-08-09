@@ -13,9 +13,6 @@
         "mandango/mandango": "dev-master"
     },
     "autoload": {
-        "classmap": [
-            "src/migrations"
-        ],
         "psr-0": {
             "Adamlc\\LaravelMandango": "src/"
         }
