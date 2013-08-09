@@ -1,6 +1,6 @@
 {
     "name": "adamlc/laravel-mandango",
-    "description": "",
+    "description": "This small package will allow you to use the Mandango ODM in your Laravel application.",
     "authors": [
         {
             "name": "Adam Curtis",
